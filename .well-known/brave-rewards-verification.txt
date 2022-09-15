@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: claytontdm.github.io
+Token: f4f73b1df2c708acb92457a1a95018f9b1f8d7089991a2089403068161fe62a4
